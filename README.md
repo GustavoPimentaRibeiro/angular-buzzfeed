@@ -1,27 +1,24 @@
-# AngularBuzzfeed
+# Clone Buzzfeed de Herói/Vilão
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+## Motivação
 
-## Development server
+Este é um desafio do curso **Desenvolvimento Front-End com Angular** da [DIO](https://www.dio.me). Neste projeto foi testado a capacidade de desenvolver um site SPA(Single Page Application) utilizando componentes e muitas funcionalidades do framework Angular.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Linguagens utilizadas
 
-## Code scaffolding
+- JavaScript
+- HTML5
+- CSS3
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Framework utilizado
 
-## Build
+- Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Fontes
 
-## Running unit tests
+- Segoe UI
+- Arial
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Link de acesso
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[Link do Projeto](https://gustavopimentaribeiro.github.io/js-developer-pokedex/)
