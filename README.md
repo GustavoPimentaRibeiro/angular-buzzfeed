@@ -21,4 +21,4 @@ Este é um desafio do curso **Desenvolvimento Front-End com Angular** da [DIO](h
 
 ## Link de acesso
 
-[Link do Projeto](https://gustavopimentaribeiro.github.io/js-developer-pokedex/)
+[Link do Projeto](https://gustavopimentaribeiro.github.io/angular-buzzfeed/)
