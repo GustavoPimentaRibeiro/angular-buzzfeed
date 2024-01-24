@@ -18,7 +18,3 @@ Este é um desafio do curso **Desenvolvimento Front-End com Angular** da [DIO](h
 
 - Segoe UI
 - Arial
-
-## Link de acesso
-
-[Link do Projeto](https://gustavopimentaribeiro.github.io/angular-buzzfeed/)
